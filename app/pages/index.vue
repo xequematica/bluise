@@ -34,11 +34,7 @@
         </div>
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
-        <img
-          alt="Hero"
-          class="rounded shadow-xl"
-          src="https://www.youtube.com/watch?v=oG_TEJirwFQ"
-        />
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/oG_TEJirwFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
     </div>
   </section>
