@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://savantwealth.com/wp-content/uploads/2021/08/Chess-900x600-1-768x512.png"
+          src="https://www.youtube.com/watch?v=oG_TEJirwFQ"
         />
       </div>
     </div>
